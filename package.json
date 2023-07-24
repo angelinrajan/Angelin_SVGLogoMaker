@@ -1,0 +1,30 @@
+{
+  "name": "angelin_svglogomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelinrajan/Angelin_SVGLogoMaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelinrajan/Angelin_SVGLogoMaker/issues"
+  },
+  "homepage": "https://github.com/angelinrajan/Angelin_SVGLogoMaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
