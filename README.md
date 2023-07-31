@@ -7,11 +7,14 @@ The purpose of this application is to generate logos for squares, circles, or tr
 ## Live Demo & Screenshots of readme -
 This application is not deployed as a live website. It is a tool to be used locally.    
 **Link to live demo:**    
-
-_May need to download the mp4 video to enable audio from the assets folder._
+[DemoLogoMaker](examples/Angelin_SVGLogoMakerDemo.webm)
+_May need to download the mp4 video to enable audio from the assets folder. Also, Attached is a link incase the demo mp4 does not work_
+https://clipchamp.com/watch/pkIldH5VSbD
 
 **Screenshots:** 
-
+![CircleScreenshot](examples/Circle.png)
+![TriangleScreenshot](examples/Triangle.png)
+![SquareScreenshot](examples/Square.png)
 
 ## Functionality of the website-
 After installing the application locally, you can run it using the command node index.js. This will present you with a series of prompts that you need to answer. The application will then populate your responses to generate a logo which is generated in the Logo.svg file. The following prompts are presented to the user:
